@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Facemash
+        psr4_prefix: Facemash
+        src_path: app
